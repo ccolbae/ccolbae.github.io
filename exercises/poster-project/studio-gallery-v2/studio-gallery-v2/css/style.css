@@ -1,0 +1,15 @@
+img {
+  border: 5px solid black;
+  border-radius:5%
+}
+img {
+  padding: 3px;
+}
+
+    p {
+  background-color: pink; }
+
+p {
+  border: 1px solid black;
+  padding: 1px; 
+}
