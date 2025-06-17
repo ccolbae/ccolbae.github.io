@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <ol>
+            <li>List Item 1</li>
+            <li>List Item 2</li>
+            <li>List Item 3</li>
+        </ol>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Ipsam enim ullam voluptatum quaerat, aliquid minima illo expedita 
+            assumenda neque porro tenetur laboriosam eveniet quasi non mollitia 
+            voluptate odit. Veritatis, tempore.
+        </p>
+        <h5>My First Unordered List </h5>
+        <ul>
+            <li>List Item 1</li>
+            <li>List Item 2</li>
+            <li>List Item 3</li>
+            <li>List Item 4</li>
+            <li>List Item 5</li>
+        </ul>
+        <h5>The Class Grocery List </h5>
+        <ul>
+            <li>Diet Mtn Dew</li>
+            <li>Cheese</li>
+            <li>White Cheddar Popcorn</li>
+            <li>Dog and Cat Food</li>
+            <li>Ramen</li>
+            <li>More Diet Mtn Dew</li>
+            <li>Bacon</li>
+            <li>Cheez Its</li>
+            <li>Waffles</li>
+            <li>Popcorn</li>
+    </body>
+</html>
