@@ -20,10 +20,11 @@ body {
 
 .header {
   text-align: center;
-  line-height: 0.5;
+  line-height: 0.08;
   font-size: xx-large;
-  margin: 25px;
-  padding: 25px;
+  margin: 4px;
+  padding: 3px;
+  color: rgb(5, 61, 17);
 }
 
 .header2 {
@@ -31,6 +32,7 @@ body {
   line-height: 0.9;
   font-size: x-large;
   margin: 10px;
+   color: rgb(5, 61, 17);
 }
 
 html, body {
@@ -110,7 +112,7 @@ body {
 .caption {
   margin-top: 8px;
   font-size: 30px;
-  color: #000000;
+  color: #7a0a0a;
   font-size: xx-large;
   font-style: italic;
   font-weight: bold;
